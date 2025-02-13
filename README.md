@@ -1,4 +1,4 @@
-# Hi there, I'm [Kuzue Chukwunonso] 👋
+# Hi there, I'm Kuzue Chukwunonso 👋
 
 <!--
 **Chukwunonso10/Chukwunonso10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
